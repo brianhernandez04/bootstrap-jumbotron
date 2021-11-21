@@ -1,3 +1,13 @@
 #head2{
     font-size: 3vw !important;
 }
+
+#jumbotwo{
+    margin-left: 13vw !important;
+}
+#jumbothree{
+    position: absolute !important;
+    top: 32vw !important;
+    left: 52% !important;
+}
+
